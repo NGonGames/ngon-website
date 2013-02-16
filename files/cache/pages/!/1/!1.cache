@@ -1,0 +1,125 @@
+O:15:"PageCacheRecord":3:{s:7:"expires";i:1392551636;s:14:"cacheRecordKey";s:2:"!1";s:7:"content";s:5543:"<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>N-Gon Games :: Home</title>
+<meta name="description" content="" />
+<meta name="generator" content="concrete5 - 5.6.1" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 1;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://192.81.217.177";
+var CCM_REL = "";
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/concrete/css/ccm.base.css?v=69d3ea9d2fc076ca02c9ad30ed074825" />
+<script type="text/javascript" src="/concrete/js/jquery.js?v=69d3ea9d2fc076ca02c9ad30ed074825"></script>
+<script type="text/javascript" src="/concrete/js/ccm.base.js?v=69d3ea9d2fc076ca02c9ad30ed074825"></script>
+
+<!-- Site Header Content //-->
+
+<link rel="stylesheet" href="/concrete/themes/greek_yogurt/css/reset.css" />
+<link rel="stylesheet" href="/concrete/themes/greek_yogurt/css/text.css" />
+<link rel="stylesheet" href="/concrete/themes/greek_yogurt/css/960_24_col.css" />
+<link rel="stylesheet" media="screen" type="text/css" href="/files/cache/css/greek_yogurt/main.css" />
+<link rel="stylesheet" media="screen" type="text/css" href="/files/cache/css/greek_yogurt/typography.css" />
+<link href='//fonts.googleapis.com/css?family=Merriweather:400,700,900,300' rel='stylesheet' type='text/css' />
+
+
+</head>
+
+<body>
+
+<!--start main container -->
+
+<div id="main-container" class="container_24">
+
+	<div id="header">
+	
+	
+		<h1><a title="Home" 
+                                	href="/"
+                                >N-Gon Games</a></h1>
+		<ul class="nav"><li class="nav-selected nav-path-selected"><a href="/" target="_self" class="nav-selected nav-path-selected">Home</a></li><li class=""><a href="/about/" target="_self" class="">About</a></li><li class=""><a href="/blog/" target="_self" class="">Blog</a></li><li class=""><a href="/search/" target="_self" class="">Search</a></li></ul>		
+		<div id="header-image">
+		
+			<img border="0" class="ccm-image-block" alt="" src="/files/6513/6101/0711/england_village.jpg" width="960" height="212" />		
+		</div>
+		
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div class="clear"></div>
+
+	<div id="main-content-container" class="grid_16">
+		<div id="main-content-inner">
+		
+			<h2>Welcome to concrete5!</h2>
+                                        <p>Content Management is easy with concrete5's in-context editing. Just <a href="/login/">login</a> and you can change things as you browse your site.</p>
+                                        <p>You can watch videos and learn how to:</p>
+                                        <ul>
+                                        <li><a title="In-context editing CMS" href="http://www.concrete5.org/documentation/general-topics/in-context-editing/" target="_blank">Edit</a>&nbsp;this page.</li>
+                                        <li>Add a <a title="Add a page in concrete5" href="http://www.concrete5.org/documentation/general-topics/add-a-page/" target="_blank">new page</a>.</li>
+                                        <li>Add some basic functionality, like&nbsp;<a title="Add a simple form in concrete5" href="http://www.concrete5.org/documentation/general-topics/add_a_form" target="_blank">a Form</a>.</li>
+                                        <li><a title="add-on marketplace for concrete5" href="http://www.concrete5.org/marketplace/how_to_install_add_ons_and_themes_/" target="_blank">Finding &amp; adding</a>&nbsp;more functionality and themes.</li>
+                                        </ul>
+                                        <p>We've taken the liberty to build out the rest of this site with some sample content that will help you learn concrete5. Wander around a bit, or click Dashboard to get to the&nbsp;<a href="/dashboard/sitemap/">Sitemap</a> and quickly delete the parts you don't want.</p>			
+		</div>
+	
+	</div>
+
+	<div id="right-sidebar-container" class="grid_8">
+
+		<div id="right-sidebar-inner">
+	
+			<h3>Sidebar</h3><p>Everything about concrete5 is completely customizable through the CMS. This is a separate area from the main content on the homepage. You can&nbsp;<a title="Move blocks in concrete5" href="http://www.concrete5.org/documentation/general-topics/blocks-and-areas" target="_blank">drag and drop blocks</a>&nbsp;like this around your layout.</p>			
+		</div>
+	
+	</div>
+	
+	<!-- end sidebar -->
+	
+<div class="clear"></div>
+	
+	<div id="footer">
+	
+		<div id="footer-inner">
+		
+			<p class="footer-sign-in">
+							<span class="sign-in"><a href="/index.php/login/">Sign In to Edit this Site</a></span>
+						</p>
+			
+			<div class="clear"></div>
+			<p class="footer-copyright">&copy;2013 N-Gon Games.</p>
+			<p class="footer-tag-line">Built with <a href="http://www.concrete5.org/" alt="Free Content Management System" target="_blank">concrete5 - an open source CMS</a></p>
+	
+		</div>
+	
+	</div>
+
+<!-- end main container -->
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38556102-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+";}
